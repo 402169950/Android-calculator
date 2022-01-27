@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_calculator_main">Minimalist Calculator</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="digit_pad_one">1</string>
+    <string name="digit_pad_two">2</string>
+    <string name="digit_pad_three">3</string>
+    <string name="digit_pad_four">4</string>
+    <string name="digit_pad_five">5</string>
+    <string name="digit_pad_six">6</string>
+    <string name="digit_pad_seven">7</string>
+    <string name="digit_pad_eight">8</string>
+    <string name="digit_pad_nine">9</string>
+    <string name="digit_pad_zero">0</string>
+    <string name="digit_pad_plus">+</string>
+    <string name="digit_pad_minus">-</string>
+    <string name="digit_pad_multiply">*</string>
+    <string name="digit_pad_divide">/</string>
+    <string name="digit_pad_equal">=</string>
+    <string name="digit_pad_clear">C</string>
+    <string name="digit_pad_advance">ADVANCE - WITH SCIENTIFIC</string>
+    <string name="digit_pad_standard">STANDARD</string>
+    <string name="advance_rem_btn">%</string>
+    <string name="advance_pow_btn">POW</string>
+    <string name="advance_max_btn">MAX</string>
+    <string name="advance_min_btn">MIN</string>
+    <string name="advance_btn_advance_flag">ADV</string>
+    <string name="advance_btn_basic_flag">BASIC</string>
+</resources>
