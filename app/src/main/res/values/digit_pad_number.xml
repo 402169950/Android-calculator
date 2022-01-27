@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="digit_pad_one">1</integer>
+    <integer name="digit_pad_two">2</integer>
+    <integer name="digit_pad_three">3</integer>
+    <integer name="digit_pad_four">4</integer>
+    <integer name="digit_pad_five">5</integer>
+    <integer name="digit_pad_six">6</integer>
+    <integer name="digit_pad_seven">7</integer>
+    <integer name="digit_pad_eight">8</integer>
+    <integer name="digit_pad_nine">9</integer>
+    <integer name="digit_pad_zero">0</integer>
+</resources>

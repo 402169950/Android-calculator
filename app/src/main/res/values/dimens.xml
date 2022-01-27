@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="digit_pad_width">80dp</dimen>
+    <dimen name="digit_pad_height">92dp</dimen>
+    <dimen name="digit_pad_margin">12dp</dimen>
+    <dimen name="cal_result_margin">10dp</dimen>
+    <dimen name="cal_result_textsize">30sp</dimen>
+    <dimen  name="advance_btn_margin">10dp</dimen>
+</resources>
